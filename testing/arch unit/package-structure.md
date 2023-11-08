@@ -19,4 +19,4 @@ Arch unit can ensure that the package structure stays alive and that the depende
 Implemented and blogged
 
 ## Consequences
-08.11.22 - So far so good. A little strict with teh Adaptor interaction
+08.11.22 - So far so good. A little strict with teh Adaptor interaction. easier to deviate then I thought
