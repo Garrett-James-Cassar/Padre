@@ -51,8 +51,10 @@ Hold all methods that carry out business logic serves a singular use case.
 [Observability Instrumentation](../observability/intrumentation.md)
 
 ## Decision
-[Proposed, Accepted, Pending, Deprecated, Superseded]
+[Accepted, Blogged]
 
 ## Status
+Implemented
 
 ## Consequences
+08.11.23 - So far so good

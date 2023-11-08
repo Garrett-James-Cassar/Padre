@@ -32,8 +32,10 @@ Structuring the code in this way also allows us to target related classes for
 [Instrumentation](../observability/intrumentation.md)
 
 ## Decision
-[Proposed, Accepted, Pending, Deprecated, Superseded]
+Accepted
 
 ## Status
+Implemented
 
 ## Consequences
+08.11.23 - So far so good
