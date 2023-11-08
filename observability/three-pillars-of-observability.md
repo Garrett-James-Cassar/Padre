@@ -13,11 +13,11 @@ production support and the development lifecycle. Logging standards should be in
 information out of logging events as possible. This should cover the following topics.
 
 1. What kind of events should always be logged  
-   [Observability - Logging - Interceptors](observability-logging-intrumentation.md)
+   [Observability - Logging - Interceptors](logging/instrumentation/intrumentation.md)
    [//]: # ([Observability - Logging - AOP]&#40;observability-logging-aop.md&#41;  )
 
 2. What kind of information should always be logged  
-   [Observability - Logging - Structured Logging](observability-logging-structured-logging.md)
+   [Observability - Logging - Structured Logging](logging/structured-logging.md)
 
 **Tracing**:  
 Logging is essential for tracking events that happen within a set of microservices. When working with
@@ -28,7 +28,7 @@ several services that talk to each other in sequence. It is important to underst
 This can be achieved by chaining related logs across bounded contexts with a tracing id and exporting the metrics to
 an external metrics logger.
 
-[Observability - Tracing](observability-tracing.md)
+[Observability - Tracing](tracing/observability-tracing.md)
 
 **Metrics**:  
 Logging gives great information about what's happening within your app, however it's not perfect. Logs aren't retained 
@@ -37,7 +37,7 @@ hold and host these logs. By Leveraging a metrics library you can retain a persi
 about your apps to help inform on things such as, which endpoints can be deprecated, failed callbacks and general 
 failure metrics. 
 
-[Observability - Metrics](observability-metrics.md)  
+[Observability - Metrics](metrics/observability-metrics.md)  
 
 
 ### Decision

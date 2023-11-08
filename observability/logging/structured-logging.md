@@ -1,7 +1,7 @@
 # Structured Logging General
 
 ## Context
-[Logging Standards](observability-logging.md)
+[Logging Standards](logging-standards.md)
 
 ## Problem
 Providing additional data when logging to help with splunk analysis and metrics. 
@@ -13,7 +13,7 @@ Log standard metadata when logging.
 - Log Level
 - User requested
 - Class logged from
-- TraceId see: [Log Tracing](observability-tracing.md)
+- TraceId see: [Log Tracing](../tracing/observability-tracing.md)
 - Timestamp
 
 

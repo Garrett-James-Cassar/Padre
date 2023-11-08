@@ -26,5 +26,5 @@ _Disadvantages_
 - Less well understood and harder to implement
 
 ## Related
-[Spring HTTP Interceptor](observability-logging-intrumentation-spring-http-interceptor.md)  
-[General AOP Interceptor](observability-logging-intrumentation-general-aop-interceptor.md)
+[Spring HTTP Interceptor](spring-http-interceptor.md)  
+[General AOP Interceptor](aop-connector-interceptor.md)
