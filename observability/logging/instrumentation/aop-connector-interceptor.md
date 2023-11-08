@@ -1,7 +1,7 @@
 # Logging Instrumentation Connectors
 
 ## Context
-[Logging Instrumentation](intrumentation.md)
+[Logging Instrumentation](../../intrumentation.md)
 
 ## Problem
 Logging the events in question

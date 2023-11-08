@@ -13,7 +13,7 @@ production support and the development lifecycle. Logging standards should be in
 information out of logging events as possible. This should cover the following topics.
 
 1. What kind of events should always be logged  
-   [Observability - Logging - Interceptors](logging/instrumentation/intrumentation.md)
+   [Observability - Logging - Interceptors](intrumentation.md)
    [//]: # ([Observability - Logging - AOP]&#40;observability-logging-aop.md&#41;  )
 
 2. What kind of information should always be logged  
