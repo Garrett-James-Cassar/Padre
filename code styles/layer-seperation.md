@@ -26,10 +26,10 @@ Structuring the code in this way also allows us to target related classes for
 2. Arch unit tests for enforcing tollerable layer pattern
 
 ## Related
-[Package Structure](package-structure.md)
-[Arch Unit Tests for package structure](/testing/arch unit/package-structure.md)
-[Arch Unit Tests for tolerable reader pattern](/testing/arch unit/tolerable-reader.md)
-[Instrumentation](/observability/intrumentation.md)
+[Package Structure](package-structure.md)  
+[Arch Unit Tests for package structure](../testing/arch unit/package-structure.md)  
+[Arch Unit Tests for tolerable reader pattern](../testing/arch unit/tolerable-reader.md)  
+[Instrumentation](../observability/intrumentation.md)
 
 ## Decision
 [Proposed, Accepted, Pending, Deprecated, Superseded]

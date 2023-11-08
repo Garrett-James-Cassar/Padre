@@ -11,8 +11,8 @@ in which the event took place.
 Agree on a set of standards for the structure, cadence and instrumentation of the logging events in a suite of services
 
 ## Related
-[Observabilty Logging Instrumentation](../intrumentation.md)
-[Observabilty Structured Logging](structured-logging.md)
+[Logging Instrumentation](../intrumentation.md)  
+[Structured Logging](structured-logging.md)
 
 ## Decision
 [Proposed, Accepted, Pending, Deprecated, Superseded]
