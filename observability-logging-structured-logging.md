@@ -1,16 +1,23 @@
-# Title
+# Structured Logging General
 
 ## Context
+[Logging Standards](observability-logging.md)
 
 ## Problem
+Providing additional data when logging to help with splunk analysis and metrics. 
 
 ## Solution
+Log standard metadata when logging. 
 
-## Related
+- Event
+- Log Level
+- User requested
+- Class logged from
+- TraceId see: [Log Tracing](observability-tracing.md)
+- Timestamp
+
 
 ## Decision
 [Proposed, Accepted, Pending, Deprecated, Superseded]
-
-## Status
 
 ## Consequences
