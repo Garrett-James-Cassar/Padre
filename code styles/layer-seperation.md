@@ -27,8 +27,8 @@ Structuring the code in this way also allows us to target related classes for
 
 ## Related
 [Package Structure](package-structure.md)  
-[Arch Unit Tests for package structure](../testing/arch unit/package-structure.md)  
-[Arch Unit Tests for tolerable reader pattern](../testing/arch unit/tolerable-reader.md)  
+[Arch Unit Tests for package structure](../testing/structure%20testing/package-structure.md)  
+[Arch Unit Tests for tolerable reader pattern](../testing/structure%20testing/tolerable-reader.md)  
 [Instrumentation](../observability/intrumentation.md)
 
 ## Decision
