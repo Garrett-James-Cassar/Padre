@@ -38,4 +38,25 @@ Accepted
 Implemented and blog post almost done
 
 ## Consequences
-08.11.23 - So far so good
+#### 08.11.23
+So far so good
+
+#### 16.11.23 
+I'm finding it a little annoying having to insert the adaptor all the time, especially when I'm doing something  
+relatively straight forward.  
+I'm finding this particularly annoying on the database front. When the operation is 'Get this from one repository and then  
+get another thing from another repository based on the first thing' I'm finding the fact the that you need to convert    
+into the entity format and convert out the result of the first thing again quite annoying. On top of that I find   
+the use of companion objects to convert class types much nicer looking, both in line and at a class dependency level.  
+
+I'm considering three things: 
+1. Ease up the rule for database entities
+   1. Maybe adaptor could not be part of the rule at all, and we just base the arch unit tests on Services and connector layers
+   2. Maybe we put databases in it's special package and right a rull that the resource layer is not to speak to the database
+   
+2. Try and change the Arch unit tests so that instead of targeting adaptor classes, they target companion objects
+
+3. Have the adaptors actually just consist of extension functions and base the rule on any function calls defined in that package.
+
+
+
