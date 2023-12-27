@@ -31,8 +31,4 @@ Consider using Yaml format instead.
 I decided to give up on using yaml  instead  of annotations because the setup seemed quite Esoteric and you can access 
 an automatically generated yaml file at http://localhost:8080/v3/api-docs.yaml. 
 
-I will have to live with the messiness of the annotations.
-
-
-
-
+I will have to live with the messiness of the spring fox.
