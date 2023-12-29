@@ -7,7 +7,7 @@ Automatic generation  of black box and white box tests based on the open API doc
 [Evo master](https://github.com/EMResearch/EvoMaster/tree/master/docs)
 
 ## Status
-Trialing
+Rejected
 
 ## Review
 
@@ -22,8 +22,10 @@ Trialing
 - it's not really clear how the preconditions are set up 
 
 ### Conclusion 
-My initial thoughts on this are that although it's a cool idea, the lack of good naming conventions and inflexibility  
-make me think that it would be good for a one and done for a new project that doesn't have any high level tests, or taking over an  
-old crappy project that you're taking over with no tests. Having said that these tests aren't usually particularly clever in the first place  
+My initial thoughts on this are that although it's a cool idea, the lack of good naming conventions and inflexibility damage it. 
+It might be good for a one and done for a new project that doesn't have any high level tests, or taking over an  
+old crappy project that you're taking over with no tests at this level. Having said that these tests aren't usually particularly clever in the first place  
 and I think these can be done quite simply by writing one and doing copy and pasting and changing a few bits.  
-Having gone through and renaming all the variables that were badly names doesn't feel his actually results in a time saving. 
+
+Having gone through and renaming all the variables that were badly named doesn't feel his actually results in a time saving,  
+just a fustration and on top of that, it can lead to a lazy unthinking testing process. 
